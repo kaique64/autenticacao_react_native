@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "name": "repositorio",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-navigation/stack": "^5.14.2",
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "expo-constants": "^10.0.1",
+    "expo-local-authentication": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.14",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "^7.19.0",
+    "eslint-plugin-react": "^7.22.0"
+  }
+}
